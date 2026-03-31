@@ -1,0 +1,846 @@
+{
+  "id": "Cv2LLUqG76W9",
+  "name": "DEPRESION FUNCIONAL ",
+  "studies": [
+
+    {
+      "id": "57GvpycTXMjZ",
+      "name": "Rate dependence of regional cerebral activation during performance of a repetitive motor task: a PET study",
+      "authors": "Blinkenberg M, Bonde C, Holm S, Svarer C, Andersen J, Paulson OB, Law I.",
+      "publication": "J. Cereb. Blood Flow Metab.",
+      "metadata": { "sample_size": 8 },
+      "analyses": [
+        {
+          "id": "6539rsWQVoHi",
+          "name": "Right index finger versus Rest",
+          "conditions": [],
+          "images": [],
+          "weights": [],
+          "metadata": {},
+          "points": [
+            { "space": "MNI", "coordinates": [  52,  -32,  -12 ] },
+            { "space": "MNI", "coordinates": [  18,  -54,  -20 ] },
+            { "space": "MNI", "coordinates": [ -26,  -24,    4 ] },
+            { "space": "MNI", "coordinates": [ -46,  -26,   12 ] },
+            { "space": "MNI", "coordinates": [  44,  -10,    0 ] },
+            { "space": "MNI", "coordinates": [  52,  -10,   40 ] },
+            { "space": "MNI", "coordinates": [ -30,  -26,   56 ] },
+            { "space": "MNI", "coordinates": [  38,   14,    4 ] },
+            { "space": "MNI", "coordinates": [ -12,  -68,  -16 ] },
+            { "space": "MNI", "coordinates": [  -6,  -14,   44 ] }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "56vFNk26UVza",
+      "name": "Neural correlates of the spontaneous phase transition during bimanual coordination.",
+      "authors": "Aramaki Y, Honda M, Okada T, Sadato N.",
+      "publication": "Cerebral Cortex",
+      "metadata": { "sample_size": 15 },
+      "analyses": [
+        {
+          "id": "5MJbeyPV2sYr",
+          "name": "Mirror versus Rest",
+          "conditions": [],
+          "images": [],
+          "weights": [],
+          "metadata": {},
+          "points": [
+            { "space": "MNI", "coordinates": [  26,  -58,  -22 ] },
+            { "space": "MNI", "coordinates": [  34,  -28,   58 ] },
+            { "space": "MNI", "coordinates": [  30,  -14,   68 ] },
+            { "space": "MNI", "coordinates": [ -54,  -26,   12 ] },
+            { "space": "MNI", "coordinates": [  -2,  -10,   56 ] },
+            { "space": "MNI", "coordinates": [ -42,  -26,   58 ] },
+            { "space": "MNI", "coordinates": [ -16,  -54,  -18 ] }
+          ]
+        },
+        {
+          "id": "mgFSfjvGWoL3",
+          "name": "Parallel versus Rest",
+          "conditions": [],
+          "images": [],
+          "weights": [],
+          "metadata": {},
+          "points": [
+            { "space": "MNI", "coordinates": [ -60,    4,   28 ] },
+            { "space": "MNI", "coordinates": [  56,   12,   14 ] },
+            { "space": "MNI", "coordinates": [  32,  -28,   58 ] },
+            { "space": "MNI", "coordinates": [  14,  -18,   10 ] },
+            { "space": "MNI", "coordinates": [ -48,  -38,   52 ] },
+            { "space": "MNI", "coordinates": [  42,   16,    6 ] },
+            { "space": "MNI", "coordinates": [  22,  -66,  -20 ] },
+            { "space": "MNI", "coordinates": [ -26,   -6,   12 ] },
+            { "space": "MNI", "coordinates": [  -8,   -4,   72 ] },
+            { "space": "MNI", "coordinates": [ -26,  -54,  -22 ] },
+            { "space": "MNI", "coordinates": [ -58,   -2,   38 ] },
+            { "space": "MNI", "coordinates": [  24,   -4,    8 ] },
+            { "space": "MNI", "coordinates": [  -2,  -72,   58 ] },
+            { "space": "MNI", "coordinates": [ -18,  -20,    8 ] },
+            { "space": "MNI", "coordinates": [ -42,  -28,   58 ] },
+            { "space": "MNI", "coordinates": [   6,   -8,   66 ] },
+            { "space": "MNI", "coordinates": [  30,  -16,   68 ] },
+            { "space": "MNI", "coordinates": [   0,    2,   64 ] }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "359AbepuGmEy",
+      "name": "The effect of tapping finger and mode differences on cortical and subcortical activities: a PET study.",
+      "authors": "Aoki T, Tsuda H, Takasawa M, Osaki Y, Oku N, Hatazawa J, Kinoshita H.",
+      "publication": "Exp. Brain Res.",
+      "metadata": { "sample_size": 10 },
+      "analyses": [
+        {
+          "id": "85HbHMBb8TUq",
+          "name": "Double Fingers versus Rest",
+          "conditions": [],
+          "images": [],
+          "weights": [],
+          "metadata": {},
+          "points": [
+            { "space": "MNI", "coordinates": [  28,  -56,  -28 ] },
+            { "space": "MNI", "coordinates": [ -50,   -6,    8 ] },
+            { "space": "MNI", "coordinates": [  38,  -38,   46 ] },
+            { "space": "MNI", "coordinates": [ -64,  -18,   26 ] },
+            { "space": "MNI", "coordinates": [ -48,  -66,    2 ] },
+            { "space": "MNI", "coordinates": [  18,  -58,  -20 ] },
+            { "space": "MNI", "coordinates": [ -36,   -4,    2 ] },
+            { "space": "MNI", "coordinates": [  38,  -20,   62 ] },
+            { "space": "MNI", "coordinates": [ -58,  -22,   40 ] },
+            { "space": "MNI", "coordinates": [  -8,   -8,   50 ] },
+            { "space": "MNI", "coordinates": [ -38,  -26,   62 ] },
+            { "space": "MNI", "coordinates": [ -46,  -34,   28 ] }
+          ]
+        },
+        {
+          "id": "3pbFDWdMbe23",
+          "name": "Right Ring finger versus Rest",
+          "conditions": [],
+          "images": [],
+          "weights": [],
+          "metadata": {},
+          "points": [
+            { "space": "MNI", "coordinates": [ -58,    6,   24 ] },
+            { "space": "MNI", "coordinates": [ -36,  -28,   58 ] },
+            { "space": "MNI", "coordinates": [ -38,   -4,    4 ] },
+            { "space": "MNI", "coordinates": [  18,  -56,    0 ] },
+            { "space": "MNI", "coordinates": [ -58,  -54,   10 ] },
+            { "space": "MNI", "coordinates": [ -54,  -30,   44 ] },
+            { "space": "MNI", "coordinates": [  -4,   -8,   54 ] }
+          ]
+        },
+        {
+          "id": "452RExoxpsgp",
+          "name": "Right Index Finger versus Rest",
+          "conditions": [],
+          "images": [],
+          "weights": [],
+          "metadata": {},
+          "points": [
+            { "space": "MNI", "coordinates": [ -36,  -28,   58 ] }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "6NRiHPaixFez",
+      "name": "Long-term reproducibility analysis of fMRI using hand motor task",
+      "authors": "Yoo SS, Wei X, Dickey CC, Guttmann CR, Panych LP.",
+      "publication": "Int. J. Neurosci.",
+      "metadata": {},
+      "analyses": []
+    },
+
+    {
+      "id": "6SQ4zUXtrojg",
+      "name": "Moving fingers",
+      "authors": "Wilson",
+      "publication": "???",
+      "metadata": {},
+      "analyses": []
+    },
+
+    {
+      "id": "5FRGqzV8VPr8",
+      "name": "Control of action as mediated by the human frontal lobe",
+      "authors": "Seitz RJ, Stephan KM, Binkofski F.",
+      "publication": "Exp. Brain Res.",
+      "metadata": {},
+      "analyses": []
+    },
+
+    {
+      "id": "5e8YRussZAMv",
+      "name": "Role of the supplementary motor area and the right premotor cortex in the coordination of bimanual finger movements",
+      "authors": "Sadato N, Yonekura Y, Waki A, Yamada H, Ishii Y.",
+      "publication": "J. Neurosci.",
+      "metadata": {},
+      "analyses": []
+    },
+
+    {
+      "id": "555yB83phA9n",
+      "name": "???",
+      "authors": "Sadato",
+      "publication": "???",
+      "metadata": {},
+      "analyses": []
+    },
+
+    {
+      "id": "MS59fuw5TBLp",
+      "name": "Frequency specific changes in regional cerebral blood flow and motor system connectivity following rTMS to the primary motor cortex",
+      "authors": "Rounis E, Lee L, Siebner HR, Rowe JB, Friston KJ, Rothwell JC, Frackowiak RSJ.",
+      "publication": "NeuroImage",
+      "metadata": {},
+      "analyses": []
+    },
+
+    {
+      "id": "7BxMQiETTse6",
+      "name": "Functional significance of age-related differences in motor activation patterns",
+      "authors": "Riecker A, Gröschel K, Ackermann H, Steinbrink C, Witte O, Kastrup A.",
+      "publication": "NeuroImage",
+      "metadata": {},
+      "analyses": []
+    },
+
+    {
+      "id": "4XwLJGX8vzMW",
+      "name": "Functional mapping of human sensorimotor cortex with 3D BOLD fMRI correlates highly with H2(15)O PET rCBF",
+      "authors": "Ramsey NF, Kirkby BS, van Gelderen P, Berman KF, Duyn JH, Frank JA, Mattay VS, Van Horn JD, Esposito G, Moonen CT, Weinberger DR.",
+      "publication": "J. Cereb. Blood Flow Metab.",
+      "metadata": {},
+      "analyses": []
+    },
+
+    {
+      "id": "3mQSmpbX7J8a",
+      "name": "Motor-induced brain activation in cortical, subcortical and cerebellar regions in schizophrenic inpatients — A whole brain fMRI fingertapping study",
+      "authors": "Müller JL, Röder CH, Schuierer G, Klein H.",
+      "publication": "Prog. Neuropsychopharmocol. Biol. Psychiatry.",
+      "metadata": {},
+      "analyses": []
+    },
+
+    {
+      "id": "9yHatsDE2xZw",
+      "name": "Hemispheric control of motor function: a whole brain echo planar fMRI study",
+      "authors": "Mattay VS, Callicott JH, Bertolino A, Santha AK, Van Horn JD, Tallent KA, Frank JA, Weinberger DR.",
+      "publication": "Psychiatry Res",
+      "metadata": {},
+      "analyses": []
+    },
+
+    {
+      "id": "8Mgr7ps6TKKt",
+      "name": "Tapping movements according to regular and irregular visual timing signals investigated with fMRI",
+      "authors": "Lutz K, Specht K, Shah NJ, Jäncke L.",
+      "publication": "Neuroreport",
+      "metadata": {},
+      "analyses": []
+    },
+
+    {
+      "id": "6bnbkHRMTBNo",
+      "name": "Regional cerebral blood flow correlates of the severity of writer's cramp symptoms",
+      "authors": "Lerner A, Shill H, Hanakawa T, Bushara K, Goldfine A, Hallett M.",
+      "publication": "NeuroImage",
+      "metadata": {},
+      "analyses": []
+    },
+
+    {
+      "id": "7aSYao9xoMTU",
+      "name": "Motor control in basal ganglia circuits using fMRI and brain atlas approaches",
+      "authors": "Lehéricy S, Bardinet E, Tremblay L, van de Moortele PF, Pochon JB, Dormont D, Kim DS, Yelnik J, Ugurbil K.",
+      "publication": "Cereb. Cortex.",
+      "metadata": {},
+      "analyses": []
+    },
+
+    {
+      "id": "kDCyvZry4QtT",
+      "name": "Cortical representation of self-paced finger movement",
+      "authors": "Larsson J, Gulyás B, Roland PE.",
+      "publication": "Neuroreport.",
+      "metadata": {},
+      "analyses": []
+    },
+
+    {
+      "id": "8KhHdibuMQpz",
+      "name": "Effector-independent representations of simple and complex imagined finger movements: a combined fMRI and TMS study",
+      "authors": "Kuhtz-Buschbeck JP, Mahnkopf C, Holzknecht C, Siebner H, Ulmer S, Jansen O.",
+      "publication": "Eur. J. Neurosci.",
+      "metadata": {},
+      "analyses": []
+    },
+
+    {
+      "id": "6vAYwcE44hNY",
+      "name": "Human cerebellum plays an important role in memory-timed finger movement: an fMRI study",
+      "authors": "Kawashima R, Okuda J, Umetsu A, Sugiura M, Inoue K, Suzuki K, Tabuchi M, Tsukiura T, Narayan SL, Nagasaka T, Yanagawa I, Fujii T, Takahashi S, Fukuda H, Yamadori A.",
+      "publication": "J. Neurophysiol.",
+      "metadata": {},
+      "analyses": []
+    },
+
+    {
+      "id": "3r9ZvewyCEVy",
+      "name": "A positron emission tomography study of self-paced finger movements at different frequencies",
+      "authors": "Kawashima R, Inoue K, Sugiura M, Okada K, Ogawa A, Fukuda H.",
+      "publication": "Neuroscience.",
+      "metadata": {},
+      "analyses": []
+    },
+
+    {
+      "id": "3NfXLZqAMo2f",
+      "name": "FMRI and PET of self-paced finger movement: comparison of intersubject stereotaxic averaged data",
+      "authors": "Joliot M, Papathanassiou D, Mellet E, Quinton O, Mazoyer N, Courtheoux P, Mazoyer B.",
+      "publication": "NeuroImage.",
+      "metadata": {},
+      "analyses": []
+    },
+
+    {
+      "id": "6MtCe3i3gyr9",
+      "name": "Anatomical congruence of metabolic and electromagnetic activation signals during a self-paced motor task: a combined PET-MEG study",
+      "authors": "Joliot M, Crivello F, Badier JM, Diallo B, Tzourio N, Mazoyer B.",
+      "publication": "NeuroImage.",
+      "metadata": {},
+      "analyses": []
+    },
+
+    {
+      "id": "5zDyTJAmdzhd",
+      "name": "Cortical activations during paced finger-tapping applying visual and auditory pacing stimuli",
+      "authors": "Jäncke L, Loose R, Lutz K, Specht K, Shah NJ.",
+      "publication": "Brain Res. Cogn. Brain Res.",
+      "metadata": {},
+      "analyses": []
+    },
+
+    {
+      "id": "6L7eAEeTg3rZ",
+      "name": "Role of the human rostral supplementary motor area and the basal ganglia in motor sequence control: investigations with H2 15O PET.",
+      "authors": "Boecker H, Dagher A, Ceballos-Baumann AO, Passingham RE, Samuel M, Friston KJ, Poline J, Dettmers C, Conrad B, Brooks DJ.",
+      "publication": "Neurophysiol.",
+      "metadata": { "sample_size": 7 },
+      "analyses": [
+        {
+          "id": "7sA3u8ppmY4x",
+          "name": "Motor sequences versus Rest",
+          "conditions": [],
+          "images": [],
+          "weights": [],
+          "metadata": {},
+          "points": [
+            { "space": "MNI", "coordinates": [ -34,  -22,   52 ] },
+            { "space": "MNI", "coordinates": [ -48,  -26,   36 ] },
+            { "space": "MNI", "coordinates": [   2,  -10,   64 ] },
+            { "space": "MNI", "coordinates": [ -38,  -28,   48 ] },
+            { "space": "MNI", "coordinates": [  40,  -40,   40 ] },
+            { "space": "MNI", "coordinates": [ -12,  -14,    0 ] },
+            { "space": "MNI", "coordinates": [ -32,  -34,   16 ] },
+            { "space": "MNI", "coordinates": [  50,  -26,   36 ] },
+            { "space": "MNI", "coordinates": [ -50,    4,   24 ] },
+            { "space": "MNI", "coordinates": [  -6,  -62,   60 ] },
+            { "space": "MNI", "coordinates": [ -22,  -60,   52 ] },
+            { "space": "MNI", "coordinates": [  30,    0,   16 ] },
+            { "space": "MNI", "coordinates": [  24,   -2,    8 ] },
+            { "space": "MNI", "coordinates": [  -6,  -28,    4 ] },
+            { "space": "MNI", "coordinates": [  16,  -74,   36 ] },
+            { "space": "MNI", "coordinates": [  54,    4,   24 ] },
+            { "space": "MNI", "coordinates": [  22,   14,    8 ] },
+            { "space": "MNI", "coordinates": [  20,  -16,   12 ] },
+            { "space": "MNI", "coordinates": [  -2,    2,   48 ] },
+            { "space": "MNI", "coordinates": [ -34,   -4,    8 ] }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "4WZ8twV28L9y",
+      "name": "Column-based model of electric field excitation of cerebral cortex",
+      "authors": "Fox PT, Narayana S, Tandon N, Sandoval H, Fox SP, Kochunov P, Lancaster JL.",
+      "publication": "Human Brain Mapping",
+      "metadata": { "sample_size": 12 },
+      "analyses": [
+        {
+          "id": "5YBUrhe7wbbE",
+          "name": "Finger movement versus Sham TMS",
+          "conditions": [],
+          "images": [],
+          "weights": [],
+          "metadata": {},
+          "points": [
+            { "space": "MNI", "coordinates": [ -40,  -28,   40 ] }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "49gepYhqTH96",
+      "name": "Cortical and subcortical brain effects of transcranial magnetic stimulation (TMS)-induced movement: an interleaved TMS/functional magnetic resonance imaging study",
+      "authors": "Denslow S, Lomarev M, George MS, Bohning DE.",
+      "publication": "Biol. Psychiatry.",
+      "metadata": { "sample_size": 11 },
+      "analyses": [
+        {
+          "id": "3YYxthutZ6mR",
+          "name": "Volitional movement versus Sham TMS",
+          "conditions": [],
+          "images": [],
+          "weights": [],
+          "metadata": {},
+          "points": [
+            { "space": "MNI", "coordinates": [ -30,  -40,   68 ] },
+            { "space": "MNI", "coordinates": [ -40,  -12,   62 ] },
+            { "space": "MNI", "coordinates": [  -6,  -60,   20 ] },
+            { "space": "MNI", "coordinates": [  -4,    2,   54 ] },
+            { "space": "MNI", "coordinates": [  26,    2,  -20 ] },
+            { "space": "MNI", "coordinates": [ -30,   52,  -10 ] },
+            { "space": "MNI", "coordinates": [  32,   52,   -6 ] },
+            { "space": "MNI", "coordinates": [ -40,  -34,   62 ] },
+            { "space": "MNI", "coordinates": [  -6,  -16,    4 ] },
+            { "space": "MNI", "coordinates": [ -64,  -30,    6 ] },
+            { "space": "MNI", "coordinates": [ -22,   -8,   -6 ] },
+            { "space": "MNI", "coordinates": [ -26,  -12,   70 ] },
+            { "space": "MNI", "coordinates": [ -40,   36,   28 ] },
+            { "space": "MNI", "coordinates": [ -50,  -44,   52 ] },
+            { "space": "MNI", "coordinates": [  50,   46,    4 ] },
+            { "space": "MNI", "coordinates": [  28,  -42,   74 ] },
+            { "space": "MNI", "coordinates": [   8,  -68,  -14 ] },
+            { "space": "MNI", "coordinates": [  58,    8,    2 ] },
+            { "space": "MNI", "coordinates": [ -64,  -38,    6 ] },
+            { "space": "MNI", "coordinates": [ -46,   48,    2 ] }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "5K2cAu4FBQWj",
+      "name": "Blood oxygenation level dependent contrast resting state networks are relevant to functional activity in the neocortical sensorimotor system",
+      "authors": "De Luca M, Smith S, De Stefano N, Federico A, Matthews PM.",
+      "publication": "Exp. Brain Res.",
+      "metadata": { "sample_size": 7 },
+      "analyses": [
+        {
+          "id": "6iTwY4BTedp2",
+          "name": "RH finger tapping, controls",
+          "conditions": [],
+          "images": [],
+          "weights": [],
+          "metadata": {},
+          "points": [
+            { "space": "MNI", "coordinates": [ -41,  -18,   56 ] },
+            { "space": "MNI", "coordinates": [ -43,   -9,   48 ] },
+            { "space": "MNI", "coordinates": [  -2,   -7,   52 ] },
+            { "space": "MNI", "coordinates": [ -39,  -24,   54 ] }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "7k9NLJMLxSEg",
+      "name": "Region cerebral blood flow during voluntary arm and hand movements in human subjects",
+      "authors": "Colebatch JG, Deiber MP, Passingham RE, Friston KJ, Frackowiak RS.",
+      "publication": "J. Neurophysiol.",
+      "metadata": { "sample_size": 6 },
+      "analyses": [
+        {
+          "id": "7KBwAp35nLg5",
+          "name": "Index versus Rest",
+          "conditions": [],
+          "images": [],
+          "weights": [],
+          "metadata": {},
+          "points": [
+            { "space": "MNI", "coordinates": [   2,  -37,   -9 ] },
+            { "space": "MNI", "coordinates": [ -45,  -30,   24 ] },
+            { "space": "MNI", "coordinates": [ -18,  -42,   56 ] }
+          ]
+        },
+        {
+          "id": "7pWcNuaPc9pJ",
+          "name": "Opposition versus Rest",
+          "conditions": [],
+          "images": [],
+          "weights": [],
+          "metadata": {},
+          "points": [
+            { "space": "MNI", "coordinates": [   5,   -3,   52 ] },
+            { "space": "MNI", "coordinates": [  52,  -36,   40 ] },
+            { "space": "MNI", "coordinates": [  28,  -15,   58 ] },
+            { "space": "MNI", "coordinates": [  36,  -30,   20 ] },
+            { "space": "MNI", "coordinates": [ -45,    1,   16 ] },
+            { "space": "MNI", "coordinates": [ -30,  -23,   52 ] },
+            { "space": "MNI", "coordinates": [ -16,  -12,   62 ] },
+            { "space": "MNI", "coordinates": [ -46,  -25,   19 ] }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "5gQ5rVoG5uXc",
+      "name": "A PET study of sequential finger movements of varying length in patients with Parkinson's disease",
+      "authors": "Catalan MJ, Ishii K, Honda M, Samii A, Hallett M.",
+      "publication": "Brain",
+      "metadata": { "sample_size": 13 },
+      "analyses": [
+        {
+          "id": "7L6jX4HmCS5j",
+          "name": "Sequence-16 versus Rest, controls",
+          "conditions": [],
+          "images": [],
+          "weights": [],
+          "metadata": {},
+          "points": [
+            { "space": "MNI", "coordinates": [  32,  -52,   44 ] },
+            { "space": "MNI", "coordinates": [  16,  -70,   44 ] },
+            { "space": "MNI", "coordinates": [ -10,   -8,   56 ] },
+            { "space": "MNI", "coordinates": [  18,   -4,   56 ] },
+            { "space": "MNI", "coordinates": [ -40,  -32,   40 ] },
+            { "space": "MNI", "coordinates": [ -10,    2,   52 ] },
+            { "space": "MNI", "coordinates": [  38,  -36,   44 ] },
+            { "space": "MNI", "coordinates": [ -16,   -8,   52 ] },
+            { "space": "MNI", "coordinates": [ -42,  -28,   48 ] },
+            { "space": "MNI", "coordinates": [ -18,  -74,   44 ] },
+            { "space": "MNI", "coordinates": [ -30,  -60,    0 ] },
+            { "space": "MNI", "coordinates": [   2,  -60,  -16 ] }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "3kgAgRixrVqR",
+      "name": "The functional neuroanatomy of simple and complex sequential finger movements: a PET study",
+      "authors": "Catalan MJ, Honda M, Weeks RA, Cohen LG, Hallett M.",
+      "publication": "Brain",
+      "metadata": { "sample_size": 13 },
+      "analyses": [
+        {
+          "id": "6APLshzPUrM8",
+          "name": "Sequence-12 versus Rest",
+          "conditions": [],
+          "images": [],
+          "weights": [],
+          "metadata": {},
+          "points": [
+            { "space": "MNI", "coordinates": [  22,   -8,   56 ] },
+            { "space": "MNI", "coordinates": [   4,   -2,   52 ] },
+            { "space": "MNI", "coordinates": [ -10,   -8,   56 ] },
+            { "space": "MNI", "coordinates": [   6,  -60,  -12 ] },
+            { "space": "MNI", "coordinates": [  24,  -18,   48 ] },
+            { "space": "MNI", "coordinates": [ -44,  -24,   48 ] },
+            { "space": "MNI", "coordinates": [ -26,  -64,   44 ] },
+            { "space": "MNI", "coordinates": [  26,  -64,   40 ] },
+            { "space": "MNI", "coordinates": [ -16,   -8,   52 ] }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "irFvwXLg6QmE",
+      "name": "Effects of age on brain activation during auditory-cued thumb-to-index opposition: A positron emission tomography study",
+      "authors": "Calautti C, Serrati C, Baron JC.",
+      "publication": "Stroke",
+      "metadata": { "sample_size": 7 },
+      "analyses": [
+        {
+          "id": "4rc8DueKVVZs",
+          "name": "LH tapping versus Rest, older subjects",
+          "conditions": [],
+          "images": [],
+          "weights": [],
+          "metadata": {},
+          "points": [
+            { "space": "MNI", "coordinates": [  24,    0,   14 ] },
+            { "space": "MNI", "coordinates": [   6,    2,   50 ] },
+            { "space": "MNI", "coordinates": [  26,  -60,  -24 ] },
+            { "space": "MNI", "coordinates": [ -26,   12,   18 ] },
+            { "space": "MNI", "coordinates": [  62,  -28,   20 ] },
+            { "space": "MNI", "coordinates": [  44,  -26,   54 ] },
+            { "space": "MNI", "coordinates": [ -10,  -54,  -16 ] },
+            { "space": "MNI", "coordinates": [  54,    2,   12 ] },
+            { "space": "MNI", "coordinates": [  -2,    0,   74 ] },
+            { "space": "MNI", "coordinates": [ -26,   -8,   16 ] }
+          ]
+        },
+        {
+          "id": "5Q2fnLj7Wpdb",
+          "name": "LH tapping versus Rest, young subjects",
+          "conditions": [],
+          "images": [],
+          "weights": [],
+          "metadata": {},
+          "points": [
+            { "space": "MNI", "coordinates": [  32,   -8,    4 ] },
+            { "space": "MNI", "coordinates": [  20,  -60,  -18 ] },
+            { "space": "MNI", "coordinates": [  38,  -24,   50 ] },
+            { "space": "MNI", "coordinates": [ -14,  -50,  -18 ] },
+            { "space": "MNI", "coordinates": [  64,  -34,   22 ] },
+            { "space": "MNI", "coordinates": [ -46,   -4,   14 ] },
+            { "space": "MNI", "coordinates": [ -52,  -26,   20 ] },
+            { "space": "MNI", "coordinates": [  56,  -24,   24 ] },
+            { "space": "MNI", "coordinates": [  28,  -16,   12 ] },
+            { "space": "MNI", "coordinates": [  30,    8,    6 ] }
+          ]
+        },
+        {
+          "id": "7HcrmKWRyJGW",
+          "name": "RH tapping versus Rest, older subjects",
+          "conditions": [],
+          "images": [],
+          "weights": [],
+          "metadata": {},
+          "points": [
+            { "space": "MNI", "coordinates": [  14,  -54,  -14 ] },
+            { "space": "MNI", "coordinates": [ -38,  -26,   60 ] },
+            { "space": "MNI", "coordinates": [  -8,  -10,   50 ] },
+            { "space": "MNI", "coordinates": [ -60,  -24,   20 ] }
+          ]
+        },
+        {
+          "id": "4ndKmQUgu8aM",
+          "name": "RH tapping versus Rest, young subjects",
+          "conditions": [],
+          "images": [],
+          "weights": [],
+          "metadata": {},
+          "points": [
+            { "space": "MNI", "coordinates": [  18,  -48,  -16 ] },
+            { "space": "MNI", "coordinates": [  56,  -24,   24 ] },
+            { "space": "MNI", "coordinates": [ -26,   -6,   44 ] },
+            { "space": "MNI", "coordinates": [ -12,  -58,  -20 ] },
+            { "space": "MNI", "coordinates": [ -10,  -10,   68 ] },
+            { "space": "MNI", "coordinates": [ -52,  -26,   20 ] },
+            { "space": "MNI", "coordinates": [ -40,  -20,   52 ] },
+            { "space": "MNI", "coordinates": [ -54,  -26,   34 ] },
+            { "space": "MNI", "coordinates": [ -44,   -6,   12 ] },
+            { "space": "MNI", "coordinates": [ -18,  -20,   42 ] }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "4zVYyoogn8GG",
+      "name": "fMRI study of bimanual coordination",
+      "authors": "Jäncke L, Peters M, Himmelbach M, Nösselt T, Shah J, Steimetz H.",
+      "publication": "Neuropsychologia",
+      "metadata": {},
+      "analyses": []
+    },
+
+    {
+      "id": "FshJ9GzyptCZ",
+      "name": "The effect of finger-movement speed of the dominant and subdominant hand on cerebellar activation: A functional magnetic resonance imaging study.",
+      "authors": "Jäncke L, Specht K, Mirzazade S, Peters M.",
+      "publication": "NeuroImage.",
+      "metadata": { "sample_size": 6 },
+      "analyses": [
+        {
+          "id": "5GdjYgFTDLQH",
+          "name": "BH 1hz versus Rest",
+          "conditions": [],
+          "images": [],
+          "weights": [],
+          "metadata": {},
+          "points": [
+            { "space": "MNI", "coordinates": [ -24,  -52,  -24 ] },
+            { "space": "MNI", "coordinates": [  16,  -56,  -24 ] }
+          ]
+        },
+        {
+          "id": "8BnWEHuWPegu",
+          "name": "LH 3hz versus Rest",
+          "conditions": [],
+          "images": [],
+          "weights": [],
+          "metadata": {},
+          "points": [
+            { "space": "MNI", "coordinates": [  24,  -56,  -28 ] },
+            { "space": "MNI", "coordinates": [ -24,  -52,  -24 ] }
+          ]
+        },
+        {
+          "id": "G4NbQVaGySNt",
+          "name": "BH 3hz versus Rest",
+          "conditions": [],
+          "images": [],
+          "weights": [],
+          "metadata": {},
+          "points": [
+            { "space": "MNI", "coordinates": [  16,  -52,  -24 ] },
+            { "space": "MNI", "coordinates": [ -24,  -52,  -24 ] }
+          ]
+        },
+        {
+          "id": "jgcn2CRMErxm",
+          "name": "LH 1hz versus Rest",
+          "conditions": [],
+          "images": [],
+          "weights": [],
+          "metadata": {},
+          "points": [
+            { "space": "MNI", "coordinates": [  24,  -56,  -28 ] },
+            { "space": "MNI", "coordinates": [ -24,  -52,  -24 ] }
+          ]
+        },
+        {
+          "id": "5493w2AV4rNf",
+          "name": "RH 1Hz versus Rest",
+          "conditions": [],
+          "images": [],
+          "weights": [],
+          "metadata": {},
+          "points": [
+            { "space": "MNI", "coordinates": [ -40,  -56,  -28 ] },
+            { "space": "MNI", "coordinates": [  16,  -56,  -24 ] }
+          ]
+        },
+        {
+          "id": "8BhxrSGkD8kb",
+          "name": "RH 3Hz versus Rest",
+          "conditions": [],
+          "images": [],
+          "weights": [],
+          "metadata": {},
+          "points": [
+            { "space": "MNI", "coordinates": [  16,  -56,  -28 ] },
+            { "space": "MNI", "coordinates": [ -32,  -64,  -24 ] }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "8FwfaESD6v6q",
+      "name": "Combined visual attention and finger movement effects on human brain representations",
+      "authors": "Indovina I, Sanes JN.",
+      "publication": "Exp. Brain Res.",
+      "metadata": {},
+      "analyses": []
+    },
+
+    {
+      "id": "7aFazZ9z4e3s",
+      "name": "Functional properties of brain areas associated with motor execution and imagery",
+      "authors": "Hanakawa T, Immisch I, Toma K, Dimyan MA, Van Gelderen P, Hallett M.",
+      "publication": "J. Neurophysiol.",
+      "metadata": {},
+      "analyses": []
+    },
+
+    {
+      "id": "KZn2bkyXq3ME",
+      "name": "Localization of the cortical response to smiling using new imaging paradigms with functional magnetic resonance imaging.",
+      "authors": "Gosain AK, Birn RM, Hyde JS.",
+      "publication": "Plast. Reconstr. Surg.",
+      "metadata": { "sample_size": 5 },
+      "analyses": [
+        {
+          "id": "6R9GRne9gWzg",
+          "name": "Finger-tapping versus Rest",
+          "conditions": [],
+          "images": [],
+          "weights": [],
+          "metadata": {},
+          "points": [
+            { "space": "MNI", "coordinates": [ -37,   21,   50 ] },
+            { "space": "MNI", "coordinates": [  44,   23,   50 ] }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "6W5Edvb22YtQ",
+      "name": "Partially overlapping neural networks for real and imagined hand movements",
+      "authors": "Gerardin E, Sirigu A, Lehéricy S, Poline JB, Gaymard B, Marsault C, Agid Y, Le Bihan D.",
+      "publication": "Cereb. Cortex.",
+      "metadata": { "sample_size": 8 },
+      "analyses": [
+        {
+          "id": "3ZY4NaDiEdZ2",
+          "name": "Motor Execution versus Rest",
+          "conditions": [],
+          "images": [],
+          "weights": [],
+          "metadata": {},
+          "points": [
+            { "space": "MNI", "coordinates": [ -33,   -3,    6 ] },
+            { "space": "MNI", "coordinates": [   3,   -3,   66 ] },
+            { "space": "MNI", "coordinates": [ -60,  -15,   21 ] },
+            { "space": "MNI", "coordinates": [ -45,  -36,   60 ] },
+            { "space": "MNI", "coordinates": [ -30,    6,    6 ] },
+            { "space": "MNI", "coordinates": [  21,  -45,  -18 ] },
+            { "space": "MNI", "coordinates": [  -3,    3,   66 ] },
+            { "space": "MNI", "coordinates": [ -30,  -42,   66 ] },
+            { "space": "MNI", "coordinates": [  42,   -3,   60 ] },
+            { "space": "MNI", "coordinates": [  39,  -15,   63 ] },
+            { "space": "MNI", "coordinates": [  36,  -36,   66 ] },
+            { "space": "MNI", "coordinates": [ -18,  -15,    9 ] },
+            { "space": "MNI", "coordinates": [  60,   -9,   15 ] },
+            { "space": "MNI", "coordinates": [ -48,  -24,   57 ] },
+            { "space": "MNI", "coordinates": [  57,   18,   24 ] },
+            { "space": "MNI", "coordinates": [  42,  -33,   60 ] },
+            { "space": "MNI", "coordinates": [  15,  -12,    9 ] },
+            { "space": "MNI", "coordinates": [  27,   -9,   12 ] },
+            { "space": "MNI", "coordinates": [  24,   18,    6 ] },
+            { "space": "MNI", "coordinates": [ -27,  -45,  -18 ] },
+            { "space": "MNI", "coordinates": [ -42,  -18,   66 ] },
+            { "space": "MNI", "coordinates": [   6,    6,   57 ] },
+            { "space": "MNI", "coordinates": [  -9,    9,   51 ] },
+            { "space": "MNI", "coordinates": [ -36,   -3,   66 ] }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "4gjJHCEboH8f",
+      "name": "A comparative fMRI study of cortical representations for thermal painful, vibrotactile, and motor performance tasks",
+      "authors": "Gelnar PA, Krauss BR, Sheehe PR, Szeverenyi NM, Apkarian AV.",
+      "publication": "NeuroImage.",
+      "metadata": { "sample_size": 9 },
+      "analyses": [
+        {
+          "id": "7jAUMpYv9brz",
+          "name": "Finger opposition versus Rest",
+          "conditions": [],
+          "images": [],
+          "weights": [],
+          "metadata": {},
+          "points": [
+            { "space": "MNI", "coordinates": [   0,  -10,   72 ] },
+            { "space": "MNI", "coordinates": [ -36,  -28,   62 ] },
+            { "space": "MNI", "coordinates": [ -46,  -34,   44 ] },
+            { "space": "MNI", "coordinates": [ -46,  -28,   44 ] },
+            { "space": "MNI", "coordinates": [  -4,   -8,   48 ] },
+            { "space": "MNI", "coordinates": [ -50,  -20,   28 ] },
+            { "space": "MNI", "coordinates": [ -42,  -14,   56 ] },
+            { "space": "MNI", "coordinates": [ -36,  -34,   62 ] }
+          ]
+        }
+      ]
+    }
+
+  ]
+}
