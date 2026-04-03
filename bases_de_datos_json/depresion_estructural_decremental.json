@@ -1,0 +1,79 @@
+{
+  "id": "02 Depr_estructural_decremental",
+  "name": "DEPRESION ESTRUCTURAL DECREMENTAL ",
+  "studies": [
+
+    {
+      "id": "Shuran2017_MDD_Str",
+      "name": "Childhood maltreatment is associated with gray matter volume abnormalities in patients with first-episode depression",
+      "authors": "Shuran Yanga, Yuqi Chenga, Yin Mob, Yan Baia, Zonglin Shena, Fang Liua, Na Lia, Linling Jianga, Wei Chenb, Yi Lub, Xuejin Sunb, Xiufeng Xua",
+      "publication": "Psychiatry Research: Neuroimaging",
+      "metadata": { "sample_size": 168 },
+      "analyses": [
+        {
+          "id": "decrease00depresion01",
+          "name": "Decrease in gray matter volume abnormalities in patients with first-episode depression due to childhood maltreatment",
+          "conditions": [],
+          "images": [],
+          "weights": [],
+          "metadata": {},
+          "points": [
+            { "space": "MNI", "coordinates": [  8,  18,  -26 ] },
+            { "space": "MNI", "coordinates": [  -10,  53,  6 ] },
+            { "space": "MNI", "coordinates": [  -32,  -70,  56 ] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Azi2025_MDD_Str",
+      "name": "Surface-based analysis of early cortical gyrification and thickness alterations in treatment-Naïve, first-episode depressive patients during emerging adulthood.",
+      "authors": "Azi Shen, Kaiyu Shi, Qiudong Xia, Wenyue Gong, Yinghong Huang, Yiwen Wang, Qinghua Zhai, Rui Yan, Zhijian Yao, Qing Lu.",
+      "publication": "Journal of Affective Disorders.",
+      "metadata": { "sample_size": 167 },
+      "analyses": [
+        {
+          "id": "decrease01depresion01",
+          "name": "Decrease in early cortical gyrification and thickness alterations in treatment-Naïve, first-episode depressive patients during emerging adulthood",
+          "conditions": [],
+          "images": [],
+          "weights": [],
+          "metadata": {},
+          "points": [
+            { "space": "MNI", "coordinates": [ -8.6, 9.1, 50.5 ] },
+            { "space": "MNI", "coordinates": [ 8.5, 26.1, 38.2 ] },
+            { "space": "MNI", "coordinates": [ -10.5, -85.9, 10.1 ] }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "Chen2024_MDD_Est",
+      "name": "The mediation role of gray matter volume in the relationship between childhood maltreatment and psychological resilience in adolescents with first-episode major depressive disorder.",
+      "authors": "Hui Chen, Peiqu Liu, Xianliang Chen, Jiali Liu, Huajia Tang, Yusheng Tian, Xiaoping Wang, Fengmei Lu and Jiansong Zhou.",
+      "publication": "Translational Psychiatry",
+      "metadata": { "sample_size": 93 },
+      "analyses": [
+        {
+          "id": "decrease02depresion01",
+          "name": "Decrease in gray matter volume in the relationship between childhood maltreatment and psychological resilience in adolescents with first-episode major depressive disorder",
+          "conditions": [],
+          "images": [],
+          "weights": [],
+          "metadata": {},
+          "points": [
+            { "space": "MNI", "coordinates": [ -35.5, -15.5, -28.5 ] },
+            { "space": "MNI", "coordinates": [ 26.5,   34.5,   -15.5 ] },
+            { "space": "MNI", "coordinates": [ 66.5,    -20.5,   -3.5 ] },
+            { "space": "MNI", "coordinates": [ 12.5,    -70.5,   5.5 ] },
+            { "space": "MNI", "coordinates": [ -47.5,    -62.5,   25.5 ] },
+            { "space": "MNI", "coordinates": [ 11.5,    -54.5,   31.5 ] },
+            { "space": "MNI", "coordinates": [ 8.5,    -51.5,   30.5 ] },
+            { "space": "MNI", "coordinates": [ 27.5,    -33.5,   66.5 ] }
+          ]
+        }
+      ]
+    }
+  ]
+}
