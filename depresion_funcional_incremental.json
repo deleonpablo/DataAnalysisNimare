@@ -1,0 +1,79 @@
+{
+  "id": "01 Depr_Funcional_incremental",
+  "name": "DEPRESION FUNCIONAL INCREMENTAL ",
+  "studies": [
+
+    {
+      "id": "Zheng2023_MDD_Fun",
+      "name": "Abnormal dynamic functional connectivity of thalamic subregions in patients with first-episode, drug-naïve major depressive disorder",
+      "authors": "Yanting Zheng , Yujie Wu , Yujie Liu, Danian Li , Xinyu Liang , Yaoping Chen , Hanyue Zhang , Yan Guo , Ruoxi Lu , Jinhui Waning, Shijun Qiu1*",
+      "publication": "Front. Psychiatry.",
+      "metadata": { "sample_size": 199 },
+      "analyses": [
+        {
+          "id": "6539rsWQVoHi",
+          "name": "Increase in dynamic functional connectivity of the thalamic subregions in patients with major depressive disorder",
+          "conditions": [],
+          "images": [],
+          "weights": [],
+          "metadata": {},
+          "points": [
+            { "space": "MNI", "coordinates": [  -42,  -36,  39 ] },
+            { "space": "MNI", "coordinates": [  -21,  60,  -3 ] },
+            { "space": "MNI", "coordinates": [ -48,  -21,  -27 ] },
+            { "space": "MNI", "coordinates": [ -3,  -54,   57 ] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Xiaodi2024_MDD_Fun",
+      "name": "Brain alterations in adolescents with first-episode depression who have experienced adverse events: evidence from resting-state functional magnetic resonance imaging .",
+      "authors": "Xiaodi Xia, Jinxiang Tang, Yadong Peng, Ying Liu, Yingying Chen, Meng Yuan, Renqiang Yu, Xiao Hou, Yixiao Fu.",
+      "publication": "Front. Psychiatry.",
+      "metadata": { "sample_size": 42 },
+      "analyses": [
+        {
+          "id": "mgFSfjvGWoL3",
+          "name": "Increase in brain alterations in adolescents with first-episode depression who have experiences adverse events",
+          "conditions": [],
+          "images": [],
+          "weights": [],
+          "metadata": {},
+          "points": [
+            { "space": "MNI", "coordinates": [ 51, -6, 12 ] }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "Du2016_MDD_Fun",
+      "name": "Early life stress affects limited regional brain activity in depression",
+      "authors": "Lian Du, JingjieWang, Ben Meng, NaYong, XiangyingYang, Qingling Huang, Yan Zhang, LinglingYang, YuanQu, Zhu Chen, Yongmei Li,Fajin Lv & Hua Hu.",
+      "publication": "Nature/Scientific report.",
+      "metadata": { "sample_size": 36 },
+      "analyses": [
+        {
+          "id": "85HbHMBb8TUq",
+          "name": "Increase in functional brain activity due to early life stress in depression",
+          "conditions": [],
+          "images": [],
+          "weights": [],
+          "metadata": {},
+          "points": [
+            { "space": "MNI", "coordinates": [  24,  0,  -15 ] },
+            { "space": "MNI", "coordinates": [  -21,  0,  -24] },
+            { "space": "MNI", "coordinates": [  6,  42,  -33 ] },
+            { "space": "MNI", "coordinates": [  3,  -3,  -12 ] },
+            { "space": "MNI", "coordinates": [  42,  24,  -21 ] },
+            { "space": "MNI", "coordinates": [  3,  36,  -33 ] },
+            { "space": "MNI", "coordinates": [  12,  -36,  9 ] },
+            { "space": "MNI", "coordinates": [  -18,  -33,  12 ] }
+
+          ]
+        }
+      ]
+    }
+  ]
+}

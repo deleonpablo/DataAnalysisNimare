@@ -1,0 +1,127 @@
+{
+  "id": "00 Depr_Funcional_decremental",
+  "name": "DEPRESION FUNCIONAL DECREMENTAL ",
+  "studies": [
+
+    {
+      "id": "Zheng2023_MDD_Fun",
+      "name": "Abnormal dynamic functional connectivity of thalamic subregions in patients with first-episode, drug-naïve major depressive disorder",
+      "authors": "Yanting Zheng , Yujie Wu , Yujie Liu, Danian Li , Xinyu Liang , Yaoping Chen , Hanyue Zhang , Yan Guo , Ruoxi Lu , Jinhui Waning, Shijun Qiu1*",
+      "publication": "Front. Psychiatry.",
+      "metadata": { "sample_size": 199 },
+      "analyses": [
+        {
+          "id": "5MJbeyPV2sYr",
+          "name": "Decrease in dynamic functional connectivity of the thalamic subregions in patients with major depressive disorder",
+          "conditions": [],
+          "images": [],
+          "weights": [],
+          "metadata": {},
+          "points": [
+            { "space": "MNI", "coordinates": [  -48,  3,  21 ] },
+            { "space": "MNI", "coordinates": [  57,  -51,  -24 ] },
+            { "space": "MNI", "coordinates": [  6,  -66,  21 ] },
+            { "space": "MNI", "coordinates": [  -42,  45,  -9 ] },
+            { "space": "MNI", "coordinates": [  -48,  -3,  -9 ] },
+            { "space": "MNI", "coordinates": [  -48,  3,  21 ] },
+            { "space": "MNI", "coordinates": [  -27,  -9,  -45 ] },
+            { "space": "MNI", "coordinates": [  -36,  -72,  33 ] },
+            { "space": "MNI", "coordinates": [  -45,  27,  -12 ] },
+            { "space": "MNI", "coordinates": [  54,  -39,  39 ] },
+            { "space": "MNI", "coordinates": [  -48,  -75,  9 ] },
+            { "space": "MNI", "coordinates": [  39,  -42,  39 ] },
+            { "space": "MNI", "coordinates": [  -60,  -15,  6 ] },
+            { "space": "MNI", "coordinates": [  27,  15,  42 ] },
+            { "space": "MNI", "coordinates": [  -36,  12,  -12 ] },
+            { "space": "MNI", "coordinates": [  -24,  6,  -3 ] },
+            { "space": "MNI", "coordinates": [  63,  -24,  -24 ] },
+            { "space": "MNI", "coordinates": [  -12,  -78,  27 ] },
+            { "space": "MNI", "coordinates": [  48,  6,  -33 ] },
+            { "space": "MNI", "coordinates": [  -6,  -27,  57 ] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Xiaodi2024_MDD_Fun",
+      "name": "Brain alterations in adolescents with first-episode depression who have experienced adverse events: evidence from resting-state functional magnetic resonance imaging .",
+      "authors": "Xiaodi Xia, Jinxiang Tang, Yadong Peng, Ying Liu, Yingying Chen, Meng Yuan, Renqiang Yu, Xiao Hou, Yixiao Fu.",
+      "publication": "Front. Psychiatry.",
+      "metadata": { "sample_size": 42 },
+      "analyses": [
+        {
+          "id": "mgFSfjvGWoL4",
+          "name": "Decrease in brain alterations in adolescents with first-episode depression who have experiences adverse events",
+          "conditions": [],
+          "images": [],
+          "weights": [],
+          "metadata": {},
+          "points": [
+            { "space": "MNI", "coordinates": [ 27, 36, -21 ] },
+            { "space": "MNI", "coordinates": [ -21, -39, 78 ] }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "Du2016_MDD_Fun",
+      "name": "Early life stress affects limited regional brain activity in depression",
+      "authors": "Lian Du, JingjieWang, Ben Meng, NaYong, XiangyingYang, Qingling Huang, Yan Zhang, LinglingYang, YuanQu, Zhu Chen, Yongmei Li,Fajin Lv & Hua Hu.",
+      "publication": "Nature/Scientific report.",
+      "metadata": { "sample_size": 36 },
+      "analyses": [
+        {
+          "id": "3pbFDWdMbe23",
+          "name": "Decrease in functional brain activity due to early life stress in depression",
+          "conditions": [],
+          "images": [],
+          "weights": [],
+          "metadata": {},
+          "points": [
+            { "space": "MNI", "coordinates": [ -42,    -42,   -24 ] },
+            { "space": "MNI", "coordinates": [ 30,    -9,   51 ] }
+          ]
+        }
+      ]
+    },
+     {
+      "id": "Rong2023_MDD_Fun",
+      "name": "Preliminary findings on the effect of childhood trauma on the functional connectivity of the anterior cingulate cortex subregions in major depressive disorder .",
+      "authors": "Bei Rong, Guoqing Gao, Limin Sun, Mingzhe Zhou, Haomian Zhao, Junhua Huang, Hanling Wang, Ling Xiao and Gaohua Wang.",
+      "publication": "Front. Psychiatry.",
+      "metadata": { "sample_size": 138 },
+      "analyses": [
+        {
+          "id": "Rongiu2023nejkDec1",
+          "name": "Decrease in functional connectivity of the anterior congulate cortes subregions in major depressive disorder due to childhood trauma.",
+          "conditions": [],
+          "images": [],
+          "weights": [],
+          "metadata": {},
+          "points": [
+            { "space": "MNI", "coordinates": [ -33, 51, 33 ] },
+            { "space": "MNI", "coordinates": [ 30, 48, 12 ] },
+            { "space": "MNI", "coordinates": [ 63, -36, 30 ] },
+            { "space": "MNI", "coordinates": [ 0, 27, 18 ] },
+            { "space": "MNI", "coordinates": [ 30, 57, 15 ] },
+            { "space": "MNI", "coordinates": [ 63, -36, 33 ] },
+            { "space": "MNI", "coordinates": [ -3, 24, 18 ] },
+            { "space": "MNI", "coordinates": [ -33, 51, 33 ] },
+            { "space": "MNI", "coordinates": [ 0, 9, 33 ] },
+            { "space": "MNI", "coordinates": [ 33, 45, 21 ] },
+            { "space": "MNI", "coordinates": [ 63, -33, 27] },
+            { "space": "MNI", "coordinates": [ -33, 51, 33 ] },
+            { "space": "MNI", "coordinates": [ 30, 48, 21 ] },
+            { "space": "MNI", "coordinates": [ 68, -33, 36 ] },
+            { "space": "MNI", "coordinates": [ 3, -9, 39 ] },
+            { "space": "MNI", "coordinates": [ -60, -39, 15 ] },
+            { "space": "MNI", "coordinates": [ -33, 51, 33 ] },
+            { "space": "MNI", "coordinates": [ 57, -63, 24 ] },
+            { "space": "MNI", "coordinates": [ -48, -39, 18 ] }
+          ]
+        }
+      ]
+    }
+  ]
+}

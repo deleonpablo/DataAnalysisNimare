@@ -11,6 +11,10 @@ from nimare.utils import get_resource_path
 from nimare.meta.cbma.mkda import MKDADensity
 import matplotlib.pyplot as plt
 
+# Activation likelihood estimation import 
+from nimare.meta.cbma.ale import ALE
+
+
 
 
 studyset_file = "nidm_pain_studyset.json"
@@ -36,12 +40,16 @@ def subset_studies(studyset, start=None, stop=None):
 studyset1 = subset_studies(studyset, None, 10)
 studyset2 = subset_studies(studyset, 10, None)
 '''
-''' cambiar a dataset'''
+
+
+#cambiar a dataset
 nimare_dset = studyset.to_dataset()
 print("\nLegacy Dataset coordinates preview:")
 print("-" * 50)
 print(nimare_dset.coordinates.head())
 
+''' 
+## Primero es MKDA, multilevel kernel density analysis
 meta = MKDADensity()
 results = meta.fit(nimare_dset)
 
@@ -70,3 +78,37 @@ pprint(results.description_)
 print("References:")
 pprint(results.bibtex_)
 plt.show()
+'''
+
+
+## Ahora es ALE, activation likelihood estimation que es el algoritmo más común en CBMA]
+
+meta = ALE()
+results = meta.fit(nimare_dset)
+
+corr = FWECorrector(method="montecarlo", n_iters=10, n_cores=1)
+cres = corr.transform(results)
+
+plot_stat_map(
+    results.get_map("z"),
+    cut_coords=[0, 0, -8],
+    draw_cross=False,
+    cmap="RdBu_r",
+    symmetric_cbar=True,
+    threshold=0.1,
+)
+plot_stat_map(
+    cres.get_map("z_desc-size_level-cluster_corr-FWE_method-montecarlo"),
+    cut_coords=[0, 0, -8],
+    draw_cross=False,
+    cmap="RdBu_r",
+    symmetric_cbar=True,
+    threshold=0.1,
+)
+
+print("Description:")
+pprint(results.description_)
+print("References:")
+pprint(results.bibtex_)
+plt.show()
+# Perfecto, ahora voy a hacer uno para cada uno entonces momento de hacer el trabajo pesado.
