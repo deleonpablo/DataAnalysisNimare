@@ -78,9 +78,9 @@ pprint(results.description_)
 print("References:")
 pprint(results.bibtex_)
 plt.show()
+
+
 '''
-
-
 ## Ahora es ALE, activation likelihood estimation que es el algoritmo más común en CBMA]
 
 meta = ALE()
